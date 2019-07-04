@@ -10,6 +10,7 @@
 
     <!-- @include('includes.esempioinclude') -->
     @include('includes.navbar')
+    @include('includes.section1')
 
     @yield('content')
 

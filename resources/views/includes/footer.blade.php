@@ -11,14 +11,16 @@
       <div class="col-md-3 mt-md-0 mt-3">
 
         <!-- Content -->
-        <a class="navbar-logo" href="https://www.boolean.careers/">
-          <img src="https://www.boolean.careers/images/common/logo.png" alt="Boolean Careers">
-        </a>
+        <div class="text-center">
+          <a class="text-center" href="https://www.boolean.careers/">
+            <img class="rounded" src="https://www.boolean.careers/images/common/logo.png" alt="Boolean Careers">
+          </a>
+
+        </div>
 
       </div>
       <!-- Grid column -->
 
-      <hr class="clearfix w-100 d-md-none pb-3">
 
       <!-- Grid column -->
       <div class="col-md-3 mb-md-0 mb-3">
@@ -30,7 +32,7 @@
             <a href="#!">ciao@</a>
           </li>
           <li>
-            <a href="#!">02</a>
+            <a href="#!">02...</a>
           </li>
           <li>
             <a href="#!">+39...</a>

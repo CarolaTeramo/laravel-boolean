@@ -1,6 +1,6 @@
 <?php $__env->startSection('content'); ?>
 
-<h1>corpo della Homepage</h1>
+<h1></h1>
 
 
 <?php $__env->stopSection(); ?>

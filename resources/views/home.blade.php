@@ -3,7 +3,7 @@
 
 @section('content')
 
-<h1>corpo della Homepage</h1>
+<h1></h1>
 
 
 @endsection
