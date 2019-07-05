@@ -55,10 +55,10 @@
             <a href="#!">Lezione gratuita</a>
           </li>
           <li>
-            <a href="#!">Privacy Policy</a>
+            <a href="{{ url('privacy_policy') }}">Privacy Policy</a>
           </li>
           <li>
-            <a href="#!">Lavora con noi</a>
+            <a href="{{ url('lavora_con_noi') }}">Lavora con noi</a>
           </li>
         </ul>
       </div>

@@ -16,7 +16,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">HOME</a></li>
+        <li><a href="<?php echo e(url('/')); ?>">HOME</a></li>
         <li><a href="#">CORSO</a></li>
         <li><a href="#">METODO</a></li>
         <li><a href="#">DOPO IL CORSO</a></li>

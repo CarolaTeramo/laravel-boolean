@@ -13,4 +13,13 @@ class HomeController extends Controller
       //view('prova.frontpage')
       return view('home');
     }
+
+    public function privacy_policy(){
+      return view('privacy_policy');
+    }
+    public function lavora_con_noi(){
+      return view('lavora_con_noi');
+    }
+
+
 }
